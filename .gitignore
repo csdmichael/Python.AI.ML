@@ -6,8 +6,7 @@
 .tmp
 *.tmp
 *.tmp.*
-.env
-.venv
+*.env
 .env.txt
 UserInterfaceState.xcuserstate
 $RECYCLE.BIN/
@@ -16,15 +15,11 @@ $RECYCLE.BIN/
 log.txt
 
 
+/.venv
 /.sourcemaps
 /.versions
 /coverage
 
-# Ionic
-/.ionic
-/www
-/platforms
-/plugins
 
 # Compiled output
 /dist
