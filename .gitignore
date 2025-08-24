@@ -8,6 +8,7 @@
 *.tmp.*
 .env
 .venv
+.env.txt
 UserInterfaceState.xcuserstate
 $RECYCLE.BIN/
 
