@@ -7,14 +7,13 @@
 *.tmp
 *.tmp.*
 *.env
-.env.txt
 UserInterfaceState.xcuserstate
 $RECYCLE.BIN/
 
 *.log
 log.txt
 
-
+/*.env
 /.venv
 /.sourcemaps
 /.versions
